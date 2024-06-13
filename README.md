@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarthakmishra001
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking for interships
+- 🌱 I’m currently learning MERN stack development
+-  I’m looking for interships.
 
 
 <!---
