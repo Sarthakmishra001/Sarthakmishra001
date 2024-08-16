@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarthakmishra001
+- 👋 Hi, I’m Sarthak mishra
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack development
 -  I’m looking for interships.
